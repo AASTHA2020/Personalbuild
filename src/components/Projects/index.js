@@ -27,6 +27,9 @@ const Projects = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
         </CardContainer>
+        <Desc>
+        <br/>
+        Exciting new projects dropping soon – stay tuned!       </Desc>
       </Wrapper>
     </Container>
   )

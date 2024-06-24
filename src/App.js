@@ -33,7 +33,7 @@ function App() {
   const [showIntro, setShowIntro] = useState(false);
 
   useEffect(() => {
-    const greetings = ['Hello', 'Hola', 'નમસ્તે', 'Ciao', 'Bonjour'];
+    const greetings = ['Hey', 'Hello', 'નમસ્તે', 'Ciao', 'Bonjour'];
     let index = 0;
 
     const greetingInterval = setInterval(() => {
