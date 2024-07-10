@@ -20,3 +20,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Space
 ![Space](./assets/space.png)
+
+## certificates
+![JS](./assets/JSCertficate.pdf)
+
+![Git](./assets/gitCertificate.pdf)

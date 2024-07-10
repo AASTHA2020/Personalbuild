@@ -6,13 +6,12 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/AASTHA2020",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/aastha-modi-a24450255/",
+  twitter: "https://twitter.com/modi_aasthaaaa",
+  insta: "https://www.instagram.com/modi_aasthaaa11/",
 };
 
 export const skills = [
@@ -92,13 +91,13 @@ export const skills = [
     skills: [
       {
         name: "Javascript",
-        institution: "Kota University",
+        
         year: "2020 - 2024",
        image: "data:image/png;base64,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",        
       },
       {
         name: "Git &Github",
-        institution: "Kota University",
+      
         year: "2020 - 2024",
         image: "data:image/png;base64,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",
       },
@@ -227,104 +226,78 @@ export const projects = [
       
      
       "Javascript",
-     
       "HTML",
       "CSS"
     ],
    
-    github: "https://github.com/AASTHA2020/Greetings_Extensi",
-    webapp: "",
+    github: "https://github.com/AASTHA2020/Greetings_Extensions",
+    webapp: "https://aastha2020.github.io/Greetings_Extensions/",
   },
   
   {
     id: 3,
-    title: "Cryptoview",
+    title: "Amazon Clone",
   
     description:
-      "",
+      "Developed an Amazon clone using React, featuring product browsing, user authentication, and a dynamic shopping cart. Integrated Firebase for backend services to enhance functionality and user experience.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["HTML", "CSS", "Javscript"],
+      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/amazon.png?raw=true",
+    tags: ["React", "Javscript", "HTML" , "CSS"],
  
-    github: "https://github.com/AASTHA2020/Greetings_Extensions",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/AASTHA2020/mctreact",
+    webapp: "https://mctreact.vercel.app/",
   },
   {
     id: 10,
-    title: "Text Translator",
+    title: "Space Site Project",
   
     description:
-      "",
+      "Developed Space, a platform offering Web & Mobile Development, Interaction Design, Digital Marketing, and Branding. Key features include project management, time tracking, and lead generation for efficient business operations.",
     image:
-      "",
-    tags: ["React Js", "JavaScript", "Tailwind"],
+      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/space.png?raw=true",
+    tags: [ "JavaScript", "HTML", "CSS"],
     
-    github: "https://github.com/AASTHA2020/TextTranslator",
-    webapp: "https://text-translator-xv1h.vercel.app/",
+    github: "https://github.com/AASTHA2020/Space_JS",
+    webapp: "https://space-js-delta.vercel.app/",
   },
   {
     id: 4,
-    title: "Laarev",
+    title: "Movies App",
   
     description:
       "",
     image:
-      "",
-    tags: ["Html", "CSS", "Javascript"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/movies.png?raw=true",
+    tags: ["React", "Javascript", "Tailwind"],
+    
+    github: "https://github.com/AASTHA2020/Movies_React",
+    webapp: "https://movies-react-pi.vercel.app/",
   },
   {
     id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
+    title: "Get an Intervention",
+   
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/intervention.png?raw=true",
+    tags: ["Javascript", "HTML", "CSS"],
+    
+    github: "https://github.com/AASTHA2020/Get-an-Intervention",
+    webapp: "https://get-an-intervention.vercel.app/",
   },
   {
     id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
+    title: "Crptoview",
+   
     description:
       "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
     image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
+      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/cryptoview.png?raw=true",
+    tags: ["Javascript", "HTML", "CSS"],
+    
+    github: "https://github.com/AASTHA2020/cryptoview",
+    webapp: "https://cryptoview-one.vercel.app/",
   },
-  {
-    id: 7,
-    title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  {
-    id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
-    description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
+ 
 ];
