@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. Skilled in HTML, CSS, JavaScript, and React, I create responsive and visually appealing web interfaces. With a passion for learning and a positive attitude, I am dedicated to delivering high-quality results and making meaningful contributions.",
   github: "https://github.com/AASTHA2020",
   resume:
-    "file:///C:/Users/missa/Downloads/first%20resume.pdf",
+    "https://app.rezi.ai/s/7WkHYoo6wDHTSnqHAAsf",
   linkedin: "https://www.linkedin.com/in/aastha-modi-a24450255/",
   twitter: "https://twitter.com/modi_aasthaaaa",
   insta: "https://www.instagram.com/modi_aasthaaa11/",
