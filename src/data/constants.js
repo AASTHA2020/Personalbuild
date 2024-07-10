@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/AASTHA2020",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://app.rezi.ai/s/7WkHYoo6wDHTSnqHAAsf",
   linkedin: "https://www.linkedin.com/in/aastha-modi-a24450255/",
   twitter: "https://twitter.com/modi_aasthaaaa",
   insta: "https://www.instagram.com/modi_aasthaaa11/",
@@ -265,7 +265,7 @@ export const projects = [
     title: "Movies App",
   
     description:
-      "",
+      "Created a Movies app using React, featuring movie browsing, search functionality, and detailed information on each movie. Integrated a third-party API for up-to-date movie data and seamless user experience.",
     image:
       "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/movies.png?raw=true",
     tags: ["React", "Javascript", "Tailwind"],

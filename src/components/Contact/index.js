@@ -57,7 +57,8 @@ const Desc = styled.div`
 
 const ContactForm = styled.form`
   width: 95%;
-  max-width: 600px;
+  max-width: 450px;
+  max-width: 450px;
   display: flex;
   flex-direction: column;
   background-color: ${({ theme }) => theme.card};
