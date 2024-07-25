@@ -278,7 +278,7 @@ export const projects = [
     title: "Get an Intervention",
    
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      " It is a web page designed to raise awareness and provide information about support and intervention services for older adults. The content is divided into several sections, each highlighting different aspects of care and community support for older adults.",
     image:
       "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/intervention.png?raw=true",
     tags: ["Javascript", "HTML", "CSS"],
