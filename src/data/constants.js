@@ -280,7 +280,7 @@ export const projects = [
     description:
       "Developed a responsive React-based real estate website with property listings and advanced search filters. Integrated user-friendly features for browsing, agent contacts, and subscription options.",
     image:
-      "",
+      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/Real-Estate.png?raw=true",
     tags: ["React Js"],
     
     github: "https://github.com/AASTHA2020/Rent_house_react",
