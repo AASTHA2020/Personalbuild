@@ -275,16 +275,16 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Get an Intervention",
+    title: "Real Estate Website- RentUp",
    
     description:
-      " It is a web page designed to raise awareness and provide information about support and intervention services for older adults. The content is divided into several sections, each highlighting different aspects of care and community support for older adults.",
+      "Developed a responsive React-based real estate website with property listings and advanced search filters. Integrated user-friendly features for browsing, agent contacts, and subscription options.",
     image:
-      "https://github.com/AASTHA2020/Personalbuild/blob/main/assets/intervention.png?raw=true",
-    tags: ["Javascript", "HTML", "CSS"],
+      "",
+    tags: ["React Js"],
     
-    github: "https://github.com/AASTHA2020/Get-an-Intervention",
-    webapp: "https://get-an-intervention.vercel.app/",
+    github: "https://github.com/AASTHA2020/Rent_house_react",
+    webapp: "https://rent-house-react-jade.vercel.app/",
   },
   {
     id: 6,
